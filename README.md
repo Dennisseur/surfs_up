@@ -14,3 +14,4 @@ In December we had a total count of 1517, mean of 71.0, min of 56.0 and max of 8
 ## Summary:
 December temperatures vary more than June temperatures. However, December is still appropriate weather conditions for both surfing and demand in ice cream as the weather is still realitively warm.
 
+To help decide whether they should build the shop other queries should also be run. For example, they should check the precipitation information to see whether their desired location gets enough sun for people to enjoy ice cream year round. They should also check information about the location they would like place the shop physically. They would need to see if that beach has good surfing conditions (wave swell, rip tides, etc).
